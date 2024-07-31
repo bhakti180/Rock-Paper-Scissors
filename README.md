@@ -1,0 +1,1 @@
+# This is a simple rock-paper-scissors game build with HTML, CSS and JavaScript.
